@@ -1,3 +1,30 @@
+🎉 Open Generative AI – Studio AI tạo ảnh/video mã nguồn mở thay thế Higgsfield không giới hạn nội dung và luôn update các models mới nhất như HappyHorse, GPT-image 2
+
+Đây là dự án open-source giúp tạo ảnh, video, lip sync và cinematic shots từ hơn 200+ models AI như Flux, Midjourney, Kling, Sora, Veo, Seedance… trong một giao diện duy nhất. Repo hiện hơn 5k stars trên GitHub.  ￼
+
+Tính năng nổi bật
+
+* Image Studio: text-to-image + image-to-image
+* Video Studio: text-to-video + image-to-video
+* Lip Sync Studio: đồng bộ môi, talking avatar
+* Cinema Studio: chỉnh lens, focal length, camera style
+* Multi-image input: hỗ trợ tới 14 ảnh tham chiếu
+* Self-host + desktop app + MIT license  ￼
+
+Điểm đáng chú ý
+
+Khác với Higgsfield hay Freepik bị khóa hệ sinh thái, dự án này cho phép:
+
+→ self-host
+→ BYOK (bring your own key)
+→ chỉnh sửa UI
+→ không bị vendor lock-in
+
+Tuy nhiên phần backend mạnh vẫn chủ yếu chạy qua MuAPI nên thực tế không hoàn toàn “free”, mà giống một frontend mạnh cho nhiều model AI hơn.  ￼
+
+#AI #OpenSource #GenerativeAI
+
+
 # Open Higgsfield AI — Open-Source Alternative to Higgsfield AI
 
 > **The free, open-source alternative to Higgsfield AI.** Generate AI images and videos using 200+ state-of-the-art models — without the closed ecosystem or subscription fees.
